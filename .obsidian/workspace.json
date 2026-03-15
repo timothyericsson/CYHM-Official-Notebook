@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ab5de55ce2b3c892",
+    "type": "split",
+    "children": [
+      {
+        "id": "315ab4bc92c248b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f460135397ea5375",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7090d66406ec9a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b191200f5e7df3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb1096dac0ce2e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "221f987f97c2742b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "caf0e779e18c0133",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b35af9ef11f4878",
+    "type": "split",
+    "children": [
+      {
+        "id": "21af30a9849ea8eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082df39e7006ca9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a5b525ad2f4bae50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a99c7baaae034ffb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7cb1be47af3977f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e0a52789e9b12a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f460135397ea5375",
+  "lastOpenFiles": [
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/write on starting user/write on starting user.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/Multi Pivot/Multi Pivot.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1/Example 1 Output/Understanding Cert publishers ESC4 Abuse.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1/Example 1 Output/Example 1 Output.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 1/Example 1/example 1 output/example 1 output.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/write on starting user",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/Other Prerequisites required.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/Multi Pivot",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Example 1/Example 1.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1/Example 1.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1/Example 1 Output",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 7/Example 1/Example 1.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 1/Example 1/example 1 output",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 1/Example 1/Example 1.md",
+    "PenTest-Notes-main/Priv Esc/Windows/4. Enumerate software/4. Unquoted service path/THM Method/3. Abuse/3. Abuse.md",
+    "PenTest-Notes-main/Priv Esc/Windows/4. Enumerate software/4. Unquoted service path/THM Method/2. Locate a service to abuse/2. Locate a service to abuse.md",
+    "PenTest-Notes-main/Priv Esc/Windows/4. Enumerate software/4. Unquoted service path/THM Method/1. Setup/1. Setup.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/Injection commands & functions/Injection commands & functions.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/5. PHPSESSID inside query/5. PHPSESSID inside query.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/4. mssql injection/comparing mssql and mysql.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/4. mssql injection/4. mssql injection.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/3. Boolean/wfuzz boolean.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/3. Boolean/Tim's Notes.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/3. Boolean/INSERT boolean.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/3. Boolean/3. Boolean.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/SHELL FROM UNION.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/LOADFILE test.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/Full Path Discovery.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/Firewall Bypass.md",
+    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/2. Union injection.md",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Example 1",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 7/Example 1",
+    "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 1/Example 1",
+    "PenTest-Notes-main/Priv Esc/Windows/4. Enumerate software/4. Unquoted service path/THM Method/3. Abuse",
+    "PenTest-Notes-main/zz images/Pasted image 20260310202507.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310172632.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310172539.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310171444.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310171433.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310171403.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310162608.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310161507.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310155825.png",
+    "PenTest-Notes-main/zz images/Pasted image 20260310155806.png"
+  ]
+}
