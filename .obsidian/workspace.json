@@ -178,6 +178,7 @@
   },
   "active": "f460135397ea5375",
   "lastOpenFiles": [
+    "PenTest-Notes-main/2026-03-15.md",
     "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/write on starting user/write on starting user.md",
     "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required/Multi Pivot/Multi Pivot.md",
     "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1/Example 1 Output/Understanding Cert publishers ESC4 Abuse.md",
@@ -207,7 +208,6 @@
     "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/LOADFILE test.md",
     "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/Full Path Discovery.md",
     "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/Firewall Bypass.md",
-    "PenTest-Notes-main/port enumeration/80&443/8. Parameter found/1. Check for SQL/1. What type of SQL to use/2. Union injection/2. Union injection.md",
     "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Other Prerequisites required",
     "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 9/Example 1",
     "PenTest-Notes-main/AD/1. Ports/88 Kerberos/1. Check for AD CS/1. Vuln Certificate Hunting/ESC 4/Example 1",
