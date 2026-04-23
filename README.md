@@ -11,7 +11,7 @@
 > A living, battle-tested Obsidian vault built over years of labs, CTFs, and Active Directory engagements.
 > Commands are generic by default — set your target once, every note updates automatically.
 
-These are the official notes behind the labs at **[canyouhack.me](https://canyouhack.me)** — a hands-on offensive security platform built for people who learn by doing. If you want an environment to actually use these notes in, check it out.
+These are the official notes behind the labs at **[canyouhack.me](https://canyouhack.me)** - my hands-on offensive security training platform built for people who learn by doing. If you want an environment to actually use these notes in, check it out.
 
 ---
 
