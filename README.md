@@ -15,6 +15,10 @@ These are the official notes behind the labs at **[canyouhack.me](https://canyou
 
 ---
 
+<video src="GlobalVarDemo.mov" controls width="100%"></video>
+
+---
+
 ## ⚡ Killer Feature — Live Command Injection
 
 Open `Global Variables.md` and fill in your target details:
