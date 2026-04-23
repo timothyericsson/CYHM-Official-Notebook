@@ -15,7 +15,7 @@ These are the official notes behind the labs at **[canyouhack.me](https://canyou
 
 ---
 
-<video src="GlobalVarDemo.mp4" controls width="100%"></video>
+![Demo](GlobalVarDemo.mp4)
 
 ---
 
