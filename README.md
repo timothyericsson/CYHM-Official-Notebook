@@ -21,7 +21,7 @@ Demo Video^
 
 ## ⚡ Killer Feature — Live Command Injection
 
-Open `Global Variables.md` and fill in your target details:
+Open `GlobalVariables.md` and fill in your target details:
 
 ```yaml
 Target-IP: 10.10.10.X
@@ -63,7 +63,7 @@ Every note with a command block instantly updates to your target. No more find-a
 1. Clone the repo
 2. Open Obsidian → "Open folder as vault" → select PenTest-Notes-main/
 3. Allow community plugins when prompted
-4. Open Global Variables.md → set your target details
+4. Open GlobalVariables.md → set your target details
 5. Watch every command in every note update live
 ```
 
@@ -90,7 +90,7 @@ PenTest-Notes-main/
 ├── BOF/                        # Buffer overflows
 ├── Evasion/                    # AV/EDR evasion
 ├── Tools & Tricks/             # CLI tools and one-liners
-└── Global Variables.md         # ← Set this first
+└── GlobalVariables.md         # ← Set this first
 ```
 
 ---
